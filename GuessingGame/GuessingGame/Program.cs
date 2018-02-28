@@ -28,8 +28,11 @@ namespace GuessingGame
 
       Console.WriteLine("Hello {0}, let's play a game...", inputName);
 
-      // Set Correct Number
-      int correctNumber = 7;
+      // Create A Random Object
+      Random random = new Random();
+
+      // Init Correct Number
+      int correctNumber = random.Next(1, 11);
 
       // Initial Guess Variable
       int guess = 0;
@@ -42,6 +45,22 @@ namespace GuessingGame
       {
         // Get User Input
         string input = Console.ReadLine();
+
+        // Make Sure Its A Number
+        if (!int.TryParse(input, out guess))
+        {
+          // Change Text Color
+          Console.ForegroundColor = ConsoleColor.Red;
+
+          // Tell User It's Not A Number
+          Console.WriteLine("It's not a number, please try again...");
+
+          // Reset Text Color
+          Console.ResetColor();
+
+          // Keep Going
+          continue;
+        }
 
         // Cast To Int And Put In Guess
         guess = Int32.Parse(input);
