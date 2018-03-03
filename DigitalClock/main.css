@@ -53,3 +53,54 @@ header img {
 span {
     font-size: 4.25rem;
 }
+
+@media (max-width: 900px) {
+    .main {
+        height: 175px;
+        border: 25px solid gray;
+        padding: 0px 7px;
+        border-radius: 15px;
+    }
+
+    span {
+        font-size: 3.25rem;
+    }
+
+
+}
+
+@media (max-width: 740px) {
+    .main {
+        height: 150px;
+    }
+
+    span {
+        font-size: 2.25rem;
+    }
+}
+
+@media (max-width: 555px) {
+    .main {
+        height: 135px;
+    }
+
+    span {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 425px) {
+    .main {
+        height: 125px;
+    }
+
+    span {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 320px) {
+    span {
+        font-size: 0.8rem;
+    }
+}
