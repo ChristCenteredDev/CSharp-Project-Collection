@@ -9,7 +9,7 @@ Guessing Game (https://github.com/ChristCenteredDev/CSharp-Project-Collection/tr
 
 
 ### JavaScript Projects
-Digital Clock (Unfinished) <br>
+Digital Clock (https://codepen.io/ChristCenteredDev/pen/KQYxEg) <br>
 Rock Paper Scissors (Unfinished) <br>
 
 
