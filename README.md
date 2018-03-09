@@ -23,5 +23,6 @@ Coming Soon... <br>
 Animal Trading Cards (https://codepen.io/ChristCenteredDev/pen/ppKNLv) <br>
 Tribute Page (https://codepen.io/ChristCenteredDev/pen/XVvGQa) <br>
 Survey Form (https://codepen.io/ChristCenteredDev/pen/oEYpoJ) <br>
+Landing Page (https://codepen.io/ChristCenteredDev/pen/yvWVab) <br>
 
 *More Coming Soon...*
