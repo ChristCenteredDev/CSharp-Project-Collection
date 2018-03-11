@@ -12,6 +12,7 @@ Guessing Game (https://github.com/ChristCenteredDev/CSharp-Project-Collection/tr
 Digital Clock (https://codepen.io/ChristCenteredDev/pen/KQYxEg) <br>
 Rock Paper Scissors (Unfinished) <br>
 Card Generator (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2007/CardsGenerator) <br>
+Who pays the bill? (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2008/WhoPaysTheBill) <br>
 
 
 ### Website Projects
