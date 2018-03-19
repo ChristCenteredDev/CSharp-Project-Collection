@@ -10,11 +10,10 @@ Guessing Game (https://github.com/ChristCenteredDev/CSharp-Project-Collection/tr
 
 ### JavaScript Projects
 Digital Clock (https://codepen.io/ChristCenteredDev/pen/KQYxEg) <br>
-Rock Paper Scissors (Unfinished) <br>
 Card Generator (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2007/CardsGenerator) <br>
 Who pays the bill? (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2008/WhoPaysTheBill) <br>
-Apple Itunes API - Music DB (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2010)
-Pixel Art Maker (https://codepen.io/ChristCenteredDev/pen/GxjjrM)
+Apple Itunes API - Music DB (https://github.com/ChristCenteredDev/Coding-Rev-JS-Course/tree/master/Section%2010)<br>
+Pixel Art Maker (https://codepen.io/ChristCenteredDev/pen/GxjjrM) <br>
 
 
 ### Website Projects
